@@ -1,8 +1,10 @@
-/* password.cpp - my first stupid C++ application
- *    
- * All rights reserved (C) 2010
- *       Will Chellman
- *
+/* password.cpp - my first C++ application
+.__                       .__                            
+|__| _____ _____     ____ |__| ____ _____ _______ ___.__.
+|  |/     \\__  \   / ___\|  |/    \\__  \\_  __ <   |  |
+|  |  Y Y  \/ __ \_/ /_/  >  |   |  \/ __ \|  | \/\___  |
+|__|__|_|  (____  /\___  /|__|___|  (____  /__|   / ____|
+         \/     \//_____/         \/     \/       \/        
  */ 
  
 #include <iostream>
