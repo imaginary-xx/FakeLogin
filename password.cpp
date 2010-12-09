@@ -18,8 +18,9 @@ int main()
   int confirm;
   int password;
 
-  cout << "\n:: FakeLogin ::\n" << endl;
-  
+  cout << "\n:: FakeLogin ::" << endl;
+  cout << "NUMERICAL PASSWORDS ONLY!\n" << endl;
+
   //stores entered password into set
   cout<<"Enter your new password: ";
   cin>> set;
