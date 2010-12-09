@@ -1,0 +1,5 @@
+Compile: 
+$ g++ password.cpp bin/a.out
+
+Run: 
+$ bin/a.out
